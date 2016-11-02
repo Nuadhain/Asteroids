@@ -1,0 +1,16 @@
+Jason Noone - Documentation of Asteroids
+
+My ship starts off at the center of the screen and moves and turns as such when the arrow keys are pressed.
+It accelerates when moving forward and decelerates when not moving (If the code works).
+
+The asteroids are randomly generated; there are three different images for it to randomly choose from for both small and large asteroids, they move 
+in random directions, and the large asteroids start in random positions. Once they collide with something (either the player or the bullet) the 
+large asteroids break into 3 small asteroids.
+
+The spacebar fires bullets in the direction the ship is facing and they don't fire like a machine gun.
+
+The collisions work. The asteroids break when hit, the bullets dissapear when they hit an asteroid, and the player looses a life when they collide 
+with an asteroid.
+
+My "above and beyond" is that, I like to think, that my graphics are well designed (drawn by myself) and lead to a consistent theme. However I could 
+not get a second above and beyond in there due to time constraints.
